@@ -1,0 +1,23 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "aula backend barbosa c",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "brazil": "clear && node index.js brazil",
+    "buscarPorLetra": "clear && node buscaPorLetra.js b",
+    "novoPais": "clear && node incluirpais.js Timor_Leste TL",
+    "pessoa": "clear && node pessoa.js Sanderson 34"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandersonGit/node-package-json-template.git"
+  },
+  "author": "sanderson_barbosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandersonGit/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/SandersonGit/node-package-json-template#readme"
+}
